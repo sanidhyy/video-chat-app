@@ -23,4 +23,4 @@ To start using app
 9. Run `yarn start`
 10. Now project will be opened in browser.
 # [Tutorial](https://www.youtube.com/watch?v=oxFr7we3LC8)
-
+**Huge thanks to [JavaScript Mastery](https://www.youtube.com/c/javascriptmastery)** for such an amazing project.
