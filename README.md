@@ -22,5 +22,10 @@ To start using app
 8. Open another terminal window and navigate to `client` folder
 9. Run `yarn start`
 10. Now project will be opened in browser.
+
+## Buy Me a Coffee 🍺
+
+[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
+
 # [Tutorial](https://www.youtube.com/watch?v=oxFr7we3LC8)
 **Huge thanks to [JavaScript Mastery](https://www.youtube.com/c/javascriptmastery)** for such an amazing project.
