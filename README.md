@@ -23,6 +23,14 @@ To start using app
 9. Run `yarn start`
 10. Now project will be opened in browser.
 
+### Need Help?
+
+If you run into issues during installation or setup:
+
+- **GitHub Discussions** — [Open a Q&A discussion](https://github.com/sanidhyy/video-chat-app/discussions/new?category=q-a) for setup and troubleshooting help.
+- **Email** — [sanidhyyy@gmail.com](mailto:sanidhyyy@gmail.com)
+- **Discord** — `sanidhyy`
+
 ## Buy Me a Coffee 🍺
 
 [<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
