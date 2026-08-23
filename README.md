@@ -29,7 +29,7 @@ If you run into issues during installation or setup:
 
 - **GitHub Discussions** — [Open a Q&A discussion](https://github.com/sanidhyy/video-chat-app/discussions/new?category=q-a) for setup and troubleshooting help.
 - **Email** — [sanidhyyy@gmail.com](mailto:sanidhyyy@gmail.com)
-- **Discord** — `sanidhyy`
+- **Discord** — `@sanidhyy`
 
 ## Buy Me a Coffee 🍺
 
