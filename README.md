@@ -1,4 +1,4 @@
-![Video chat app](https://camo.githubusercontent.com/7a6c8bcb2dd9454368d291963ae8506126e762a854b2878f0115db14f5194181/68747470733a2f2f692e6962622e636f2f37575a524c44312f3132322e6a7067)
+![Video chat app](./.github/images/img_main.png)
 
 # VIDEO CHAT APP USING REACT JS
 **NOTE**: Root directory contains nodejs server files and *clients* folder contains front end and javascript logic code.
