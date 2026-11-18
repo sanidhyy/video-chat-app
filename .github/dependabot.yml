@@ -6,9 +6,11 @@
 version: 2
 updates:
   - package-ecosystem: 'npm'
-    directory: '/'
+    directories:
+      - '/'
+      - '/client'
     schedule:
-      interval: 'quarterly' # every 3 months
+      interval: 'quarterly'
     allow:
       - dependency-type: 'direct'
     versioning-strategy: 'increase'
